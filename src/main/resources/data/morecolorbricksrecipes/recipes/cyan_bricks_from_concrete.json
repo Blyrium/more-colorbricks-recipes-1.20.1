@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cyan_concrete"
+    }
+  },
+  "result": {
+    "item": "colorbricks:cyan_bricks",
+    "count": 4
+  }
+}

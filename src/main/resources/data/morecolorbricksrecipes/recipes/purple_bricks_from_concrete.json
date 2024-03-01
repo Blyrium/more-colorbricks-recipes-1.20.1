@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:purple_concrete"
+    }
+  },
+  "result": {
+    "item": "colorbricks:purple_bricks",
+    "count": 4
+  }
+}

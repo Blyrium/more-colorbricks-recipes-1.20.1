@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:light_blue_concrete"
+    }
+  },
+  "result": {
+    "item": "colorbricks:light_blue_bricks",
+    "count": 4
+  }
+}

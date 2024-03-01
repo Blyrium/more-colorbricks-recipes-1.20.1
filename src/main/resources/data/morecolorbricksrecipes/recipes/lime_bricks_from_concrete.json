@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lime_concrete"
+    }
+  },
+  "result": {
+    "item": "colorbricks:lime_bricks",
+    "count": 4
+  }
+}

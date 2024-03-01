@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:orange_concrete"
+    }
+  },
+  "result": {
+    "item": "colorbricks:orange_bricks",
+    "count": 4
+  }
+}

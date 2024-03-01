@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:pink_concrete"
+    }
+  },
+  "result": {
+    "item": "colorbricks:pink_bricks",
+    "count": 4
+  }
+}

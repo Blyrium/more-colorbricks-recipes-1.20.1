@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:black_concrete"
+    }
+  },
+  "result": {
+    "item": "colorbricks:black_bricks",
+    "count": 4
+  }
+}
